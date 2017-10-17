@@ -1,0 +1,19 @@
+{
+  "name": "test-tag-release",
+  "version": "1.0.0",
+  "description": "test repo for tag-release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elijahmanor/test-tag-release.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elijahmanor/test-tag-release/issues"
+  },
+  "homepage": "https://github.com/elijahmanor/test-tag-release#readme"
+}
