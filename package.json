@@ -1,6 +1,6 @@
 {
   "name": "test-tag-release",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "test repo for tag-release",
   "main": "index.js",
   "scripts": {
